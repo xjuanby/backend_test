@@ -15,6 +15,6 @@ Crear Métodos API-Rest Utilizando el Framework Laravel que permitan los casos d
 - uso de modelos(entidades) de datos en laravel (25%)
 - Cumplir con los casos de uso descritos (50%)
 
-#### Nota: los datos de conexión de postgresql son los de default(usuario: postgresql, puerto:5432, contraseña: postgres)
+#### Nota: los datos de conexión de postgresql son los de default(usuario: postgres, puerto:5432, contraseña: postgres)
 
 
