@@ -2,12 +2,12 @@
 
 ### Objetivo del ejercicio:
 
-Crear Métodos API-Rest Utilizando el framwork Laravel que permitan los casos de uso descritos
+Crear Métodos API-Rest Utilizando el Framework Laravel que permitan los casos de uso descritos
 
 ### Intrucciones Generales
 - Leer atentamente la hoja de casos de uso
 - El tiempo para resolver la prueba es de 2 horas
-- Realizar una conexión una BD(pgadmin, consola, etc) y utilizar el archivo "init-bd.sql" para crear las talbas necesarias
+- Realizar una conexión una BD(pgadmin, consola, etc) y utilizar el archivo "init-bd.sql" para crear las tablas necesarias
 - (Opcional) Crear una Interfaz( Grafica o por consola) que haga uso de las apis para probar los casos de uso
 
 ### Parámetros que se tomarán en cuenta
